@@ -8,7 +8,7 @@
 
 
 
-**PROBLEM STATEMENT**
+**PROBLEM STATEMENT**h
 
 My client, a big-city police department, is grappled with escalating crime rates and in need for a more proactive crime prevention strategy. The client reach out to Datafied Technologies to seek expertise to leverage data analytics to gain insights into crime patterns, potential crime hotspots, and develop targeted strategies for crime reduction.
 
