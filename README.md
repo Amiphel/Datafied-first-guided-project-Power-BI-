@@ -29,7 +29,8 @@ And enhance proactive crime prevention strategies.
 
 The dataset is built from The 'Police recorded crime open data tables, year ending March **2013** up to **2023**, released is a top-tier statistical output adhering to professional standards, Produced by Home Office statisticians, it ensures objectivity and complies with the Code of Practice for Statistics.
 
-![image](https://github.com/Amiphel/Datafied-first-guided-project-Power-BI-/assets/157698401/8afa5e83-8e3e-4f26-91a3-25d5c618f637)
+
+![image](https://github.com/Amiphel/Datafied-first-guided-project-Power-BI-/assets/157698401/86d585e4-d32b-4c48-adbc-81fe1ead2c32)
 
 
 The geographical area under study are all regions in England and Wales;
