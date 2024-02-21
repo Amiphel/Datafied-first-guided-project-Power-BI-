@@ -9,7 +9,7 @@ In today's world, crime rates have surged, posing complex challenges for law enf
 
 
 
-**<ins>PROBLEM STATEMENT<ins>**
+<h1>PROBLEM STATEMENT</h1>
 
 My client, a big-city police department, is grappled with escalating crime rates and in need for a more proactive crime prevention strategy. The client reach out to Datafied Technologies to seek expertise to leverage data analytics to gain insights into crime patterns, potential crime hotspots, and develop targeted strategies for crime reduction.
 
@@ -25,7 +25,7 @@ And enhance proactive crime prevention strategies.
 
 
 
-**<ins>DATA SOURCING<ins>**
+<h1>DATA SOURCING</h1>
 
 The dataset is built from The 'Police recorded crime open data tables, year ending March **2013** up to **2023**, released is a top-tier statistical output adhering to professional standards, Produced by Home Office statisticians, it ensures objectivity and complies with the Code of Practice for Statistics.
 
@@ -67,6 +67,6 @@ Data Source:
 
 
 
-**<ins>PROJECT OBJECTIVE<ins>**
+<h1>PROJECT OBJECTIVE</h1>
 
 The successful execution of this project will empower the police department to make informed decisions, leading to a substantial improvement in crime prevention and law enforcement effectiveness. This will not only transforms traditional policing methods but also underscores the significance of a proactive, data-driven approach in addressing the evolving challenges of crime in urban environments.
