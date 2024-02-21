@@ -32,14 +32,23 @@ The dataset is built from The 'Police recorded crime open data tables, year endi
 The geographical area under study are all regions in England and Wales;
 
 South East Region
+
 North West Region
+
 East Midlands Region
+
 London Region
+
 Yorkshire and the Humber
+
 Eastern Region
+
 South West Region
+
 West Midlands Region
+
 Wales
+
 North East Region
 
 Covering all police force and community safety partnerships (CPS) in these regions.
