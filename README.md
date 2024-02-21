@@ -31,9 +31,9 @@ The dataset is built from The 'Police recorded crime open data tables, year endi
 
 The geographical area under study are all regions in England and Wales;
 
-South East Region
+*South East Region
 
-North West Region
+*North West Region
 
 East Midlands Region
 
