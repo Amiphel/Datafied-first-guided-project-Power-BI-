@@ -46,6 +46,6 @@ Covering all police force and community safety partnerships (CPS) in these regio
 
 Data Source:
 
-[https://docs.google.com/spreadsheets/d/1zXSzFgQ-IV0NWH6zlZWbK4A3irsKjtOpammXa8FUte4/edit#gid=1821703077](url)
+[Crime records](https://docs.google.com/spreadsheets/d/1zXSzFgQ-IV0NWH6zlZWbK4A3irsKjtOpammXa8FUte4/edit#gid=1821703077)
 
-[https://docs.google.com/spreadsheets/d/1wQbjhMO7cj8HoakhEuLeX2-9bZgSAO02UdCLOHE8gBs/edit#gid=893458933](url)
+[Geo Data](https://docs.google.com/spreadsheets/d/1wQbjhMO7cj8HoakhEuLeX2-9bZgSAO02UdCLOHE8gBs/edit#gid=893458933)
