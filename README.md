@@ -1,4 +1,4 @@
-<u>NOTE: THIS IS A STUDENT PROJECT WITH DATAFIED ACADEMY<u>
+<ins>NOTE: THIS IS A STUDENT PROJECT WITH DATAFIED ACADEMY<ins>
 
 ![image](https://github.com/Amiphel/Datafied-first-guided-project-Power-BI-/assets/157698401/3e5c49a4-85af-41af-8769-050b239e3e97)
 
