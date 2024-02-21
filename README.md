@@ -27,7 +27,7 @@ And enhance proactive crime prevention strategies.
 
 **DATA SOURCING**
 
-The dataset is built from The 'Police recorded crime open data tables, year ending March 2013 up to 2023, released is a top-tier statistical output adhering to professional standards, Produced by Home Office statisticians, it ensures objectivity and complies with the Code of Practice for Statistics.
+The dataset is built from The 'Police recorded crime open data tables, year ending March **2013** up to **2023**, released is a top-tier statistical output adhering to professional standards, Produced by Home Office statisticians, it ensures objectivity and complies with the Code of Practice for Statistics.
 
 The geographical area under study are all regions in England and Wales;
 
@@ -58,3 +58,9 @@ Data Source:
 [Crime records](https://docs.google.com/spreadsheets/d/1zXSzFgQ-IV0NWH6zlZWbK4A3irsKjtOpammXa8FUte4/edit#gid=1821703077)
 
 [Geo Data](https://docs.google.com/spreadsheets/d/1wQbjhMO7cj8HoakhEuLeX2-9bZgSAO02UdCLOHE8gBs/edit#gid=893458933)
+
+
+
+**PROJECT OBJECTIVE**
+
+The successful execution of this project will empower the police department to make informed decisions, leading to a substantial improvement in crime prevention and law enforcement effectiveness. This will not only transforms traditional policing methods but also underscores the significance of a proactive, data-driven approach in addressing the evolving challenges of crime in urban environments.
