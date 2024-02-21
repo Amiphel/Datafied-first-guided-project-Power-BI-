@@ -70,3 +70,12 @@ Data Source:
 <h1>PROJECT OBJECTIVE</h1>
 
 The successful execution of this project will empower the police department to make informed decisions, leading to a substantial improvement in crime prevention and law enforcement effectiveness. This will not only transforms traditional policing methods but also underscores the significance of a proactive, data-driven approach in addressing the evolving challenges of crime in urban environments.
+
+
+<h1>DATA TRANSFORMATION AND CLEANING</h1>
+
+The dataset was cleaned by removing duplicates, filtering rows and columns, correcting inconsistencies, and ensuring the data is in a suitable format for analysis and visualization.
+
+**Dataset Before Cleaning**
+
+
