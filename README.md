@@ -33,7 +33,7 @@ The geographical area under study are all regions in England and Wales;
 
 *South East Region
 
-*North West Region
+- North West Region
 
 East Midlands Region
 
