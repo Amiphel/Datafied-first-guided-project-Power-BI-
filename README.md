@@ -78,4 +78,10 @@ The dataset was cleaned by removing duplicates, filtering rows and columns, corr
 
 **Dataset Before Cleaning**
 
+<img width="872" alt="image" src="https://github.com/Amiphel/Datafied-first-guided-project-Power-BI-/assets/157698401/f10b5fff-10ee-4e34-9131-98e4ece4adf9">
+
+**Dataset After Cleaning**
+
+<img width="955" alt="image" src="https://github.com/Amiphel/Datafied-first-guided-project-Power-BI-/assets/157698401/9e443918-3070-4295-8ed6-5e245292e82e">
+
 
