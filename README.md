@@ -85,3 +85,18 @@ The dataset was cleaned by removing duplicates, filtering rows and columns, corr
 <img width="955" alt="image" src="https://github.com/Amiphel/Datafied-first-guided-project-Power-BI-/assets/157698401/9e443918-3070-4295-8ed6-5e245292e82e">
 
 
+
+<h1>DATA MODELING</h1>
+
+Dimensions with which to break down the analysis were identified. Hence, new tables for the identified dimensions were created. They are;
+
+- Offence dimension
+
+- Date dimension
+
+- Location dimension
+
+The data model was designed using the Star Schema where the different dimensions were connected to the Fact table in a one-to-many relationship.
+
+<img width="950" alt="image" src="https://github.com/Amiphel/Datafied-first-guided-project-Power-BI-/assets/157698401/20380095-9e9e-41dd-9946-3da1817f1d19">
+
