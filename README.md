@@ -1,4 +1,4 @@
-<ins>NOTE: THIS IS A STUDENT PROJECT WITH DATAFIED ACADEMY<ins>
+**<ins>NOTE: THIS IS A STUDENT PROJECT WITH DATAFIED ACADEMY<ins>**
 
 ![image](https://github.com/Amiphel/Datafied-first-guided-project-Power-BI-/assets/157698401/3e5c49a4-85af-41af-8769-050b239e3e97)
 
@@ -8,7 +8,7 @@ In today's world, crime rates have surged, posing complex challenges for law enf
 
 
 
-**PROBLEM STATEMENT**
+**<h3>PROBLEM STATEMENT<h3>**
 
 My client, a big-city police department, is grappled with escalating crime rates and in need for a more proactive crime prevention strategy. The client reach out to Datafied Technologies to seek expertise to leverage data analytics to gain insights into crime patterns, potential crime hotspots, and develop targeted strategies for crime reduction.
 
