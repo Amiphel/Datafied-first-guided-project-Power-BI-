@@ -100,3 +100,6 @@ The data model was designed using the Star Schema where the different dimensions
 
 <img width="950" alt="image" src="https://github.com/Amiphel/Datafied-first-guided-project-Power-BI-/assets/157698401/20380095-9e9e-41dd-9946-3da1817f1d19">
 
+
+
+# DATA CLEANING STAGES
